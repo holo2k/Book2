@@ -1,0 +1,10 @@
+C:\Users\holo\source\repos\Book2\Book2\Book2\bin\Debug\netcoreapp3.0\Book2.exe
+C:\Users\holo\source\repos\Book2\Book2\Book2\bin\Debug\netcoreapp3.0\Book2.deps.json
+C:\Users\holo\source\repos\Book2\Book2\Book2\bin\Debug\netcoreapp3.0\Book2.runtimeconfig.json
+C:\Users\holo\source\repos\Book2\Book2\Book2\bin\Debug\netcoreapp3.0\Book2.runtimeconfig.dev.json
+C:\Users\holo\source\repos\Book2\Book2\Book2\bin\Debug\netcoreapp3.0\Book2.dll
+C:\Users\holo\source\repos\Book2\Book2\Book2\bin\Debug\netcoreapp3.0\Book2.pdb
+C:\Users\holo\source\repos\Book2\Book2\Book2\obj\Debug\netcoreapp3.0\Book2.AssemblyInfoInputs.cache
+C:\Users\holo\source\repos\Book2\Book2\Book2\obj\Debug\netcoreapp3.0\Book2.AssemblyInfo.cs
+C:\Users\holo\source\repos\Book2\Book2\Book2\obj\Debug\netcoreapp3.0\Book2.dll
+C:\Users\holo\source\repos\Book2\Book2\Book2\obj\Debug\netcoreapp3.0\Book2.pdb
